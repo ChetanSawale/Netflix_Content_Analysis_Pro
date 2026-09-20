@@ -117,11 +117,9 @@ Add the Power BI dashboard screenshot to this repository and embed it here.
 
 4. Replace it with this:
 
-```markdown
-## 📷 Dashboard Preview
+<h2>📷 Dashboard Preview</h2>
 
-![Netflix Content Analysis Dashboard](./netflix-dashboard.png)
-```
+<img width="1350" height="760" alt="Netflix Content Analysis Dashboard" src="https://raw.githubusercontent.com/ChetanSawale/Netflix_Content_Analysis_Pro/main/netflix-dashboard.png" />
 
 ---
 
