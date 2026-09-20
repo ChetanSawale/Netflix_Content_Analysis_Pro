@@ -117,7 +117,7 @@ Add the Power BI dashboard screenshot to this repository and embed it here.
 Example:
 
 ```markdown
-![Netflix Content Analysis Dashboard](netflix-dashboard.png)
+![Netflix Content Analysis Dashboard](./netflix-dashboard.png)
 ```
 
 ---
