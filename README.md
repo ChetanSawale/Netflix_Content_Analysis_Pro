@@ -114,9 +114,12 @@ Possible preparation activities include:
 
 Add the Power BI dashboard screenshot to this repository and embed it here.
 
-Example:
+
+4. Replace it with this:
 
 ```markdown
+## 📷 Dashboard Preview
+
 ![Netflix Content Analysis Dashboard](./netflix-dashboard.png)
 ```
 
